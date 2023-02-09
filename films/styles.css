@@ -1,0 +1,169 @@
+
+body{
+    background-color: black;
+    overflow-y: scroll;
+    
+}
+#page{
+    padding-top: 9.375em;
+}
+header{
+    position: fixed;
+    top: 0px;
+}
+#heading{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 5em;
+    margin: 0px;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 1em;
+    background-image: url(./images/heading.png.jpg);
+}
+ul{
+    display: flex;
+    list-style: none;
+    background-color:rgb(32, 1, 49) ;
+    padding: 1em;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+    padding: 5em;
+    margin: 1em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    color: rgb(221, 217, 217);
+
+}
+a:hover{
+    background-color: rgb(54, 28, 78);
+}
+#horror{
+    background-color: rgb(19, 18, 18);
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+.intro{
+    margin: 5px;
+    padding: 5px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+#poster{
+    margin: 10px;
+    display: flex;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+#jordan{
+    margin: 5px;
+}
+.story{
+    font-size: 2em;
+    margin: 10px;
+    padding: 5px;
+    
+}
+#storyline{
+    margin: 10px;
+    border-left: 5px solid blue;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+#suspensfull{
+    background-color: rgb(19, 18, 18);
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+.suspense-intro{
+    margin: 5px;
+    padding: 5px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+
+#poster2{
+    display: flex;
+    margin: 10px;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+#leo{
+    margin: 5px;
+}
+#series{
+    background-color: rgb(19, 18, 18);
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}.series-intro{
+    margin: 5px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+#breaking-bad{
+    padding: 10px;
+}
+#poster3{
+    display: flex;
+    margin: 10px;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+#heisenberg{
+    margin: 5px;
+}
+#sci-fi{
+    background-color: rgb(19, 18, 18);
+    color: white;
+    margin: 10px;
+    border-radius: 10px;
+}
+.sci-fi-intro{
+    padding: 5px;
+    margin: 5px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    border: 2px solid #333333;
+    border-radius: 10px;
+}
+#interstellar{
+    padding: 10px;
+}
+#poster4{
+    display: flex;
+    margin: 5px;
+}
+.information{
+    padding: 5px;
+    margin: 5px;
+    line-height: 1.5em;
+    font-size: 1.5em;
+    border: 2px solid #333333;
+    border-radius: 10px;
+    color: white;
+}
+#info-head{
+    color: white;
+    text-align: center;
+    font-size: 2em;
+}
+.download:hover{
+    background-color: rgb(19, 18, 18);
+}
